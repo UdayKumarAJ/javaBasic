@@ -10,7 +10,7 @@ public class Array1
 		System.out.println();
 		for (int i : a) 
 		{
-			System.out.println(i++);
+			System.out.println(i);
 		}
 		
 		
